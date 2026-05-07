@@ -73,15 +73,17 @@ TODO: 各テーマの説明図を用意する
 6. Manabu Watanabe et al. "Clarification of origin of positive excess volume of Pd–Fe binary alloys." *Acta Materialia* (2024).
 7. **Tomonori Tanaka**, Yoshihiro Gohda. "Prediction of the Curie temperature considering the dependence of the phonon free energy on magnetic states." *npj Computational Materials* 6(1) (2020).
 8. **Tomonori Tanaka**, Yoshihiro Gohda. "First-Principles Study of Magnetism-Dependent Phonons Governed by Exchange Ligand Field." *Journal of the Physical Society of Japan* 89(9), 093705 (2020).
-9. **Tomonori Tanaka**. "First-principles prediction of one-dimensional giant Rashba splittings in Bi-adsorbed In atomic chains." *Physical Review B* (2018).
+9. **Tomonori Tanaka**, Yoshihiro Gohda. "First-principles prediction of one-dimensional giant Rashba splittings in Bi-adsorbed In atomic chains." *Physical Review B* **98**, 241409(R) (2018).
 
-TODO: 各論文の DOI・巻号・ページ番号を追記する
+DOI・巻号・ページ番号は publications.qmd に反映済み。
 
 ### 4.4 ソフトウェア（software）
 
-- **Magesty.jl** — Julia 製パッケージ（有限温度磁性計算）。2026年4月ポスター賞受賞。
-  - TODO: リポジトリ URL、概要、インストール方法を追記
-- TODO: その他ソフトウェアがあれば追記
+- **Magesty.jl** — Julia 製パッケージ（スピンクラスター展開による一般化スピンモデル構築）。2026年4月ポスター賞受賞。
+  - リポジトリ: https://github.com/Tomonori-Tanaka/Magesty.jl
+  - ドキュメント: https://tomonori-tanaka.github.io/Magesty.jl/dev/
+- **SpinClusterMC.jl** — Magesty.jl 派生のモンテカルロパッケージ
+  - リポジトリ: https://github.com/Tomonori-Tanaka/SpinClusterMC.jl
 
 ### 4.5 CV
 
@@ -101,7 +103,8 @@ TODO: 各論文の DOI・巻号・ページ番号を追記する
 | 2020.10–2021.2 | 東京工業大学 | 研究員 |
 | 2021.2–2023.3 | 産業技術総合研究所 | 特別研究員 |
 | 2023.4–2024.9 | 東京工業大学 | 研究員 |
-| 2024.10– | 東京科学大学 | 研究員 |
+| 2024.10–2026.3 | 東京科学大学 | 研究員 |
+| 2026.4– | 東京科学大学 | 特任助教 |
 
 受賞:
 
@@ -114,7 +117,7 @@ TODO: 各論文の DOI・巻号・ページ番号を追記する
 
 ### 4.6 お問い合わせ（contact）
 
-- メールアドレス: TODO（公開用アドレスを確認）
+- メールアドレス: tomonori.tanaka.academic@gmail.com
 - ORCID: https://orcid.org/0000-0001-7306-6770
 - GitHub: https://github.com/Tomonori-Tanaka
 - Google Scholar: https://scholar.google.co.jp/citations?user=m2RlBXgAAAAJ&hl=en&oi=sra
@@ -131,6 +134,6 @@ TODO: 各論文の DOI・巻号・ページ番号を追記する
 
 - ホスティング: GitHub Pages
 - 出力先: `docs/`（`quarto render` で生成）
-- リポジトリ: TODO（GitHub リポジトリ名を確認）
-- カスタムドメイン: TODO（独自ドメインの有無を確認）
+- リポジトリ: https://github.com/Tomonori-Tanaka/Tomonori-Tanaka.github.io
+- カスタムドメイン: なし（tomonori-tanaka.github.io）
 - ビルド方法: ローカルで `quarto render` → `docs/` を push

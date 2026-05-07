@@ -15,9 +15,9 @@ title: "CV"
 
 | Period | Institution | Position |
 |--------|-------------|----------|
-| 2020.10–2021.2 | School of Materials and Chemical Technology, Tokyo Institute of Technology | Postdoctoral Researcher |
+| 2020.10–2021.2 | Department of Materials Science and Engineering, Tokyo Institute of Technology | Postdoctoral Researcher |
 | 2021.2–2023.3 | Research Center for Computational Design of Advanced Functional Materials, National Institute of Advanced Industrial Science and Technology (AIST) | Postdoctoral Researcher |
-| 2023.4–2024.9 | School of Materials and Chemical Technology, Tokyo Institute of Technology | Postdoctoral Researcher |
+| 2023.4–2024.9 | Department of Materials Science and Engineering, Tokyo Institute of Technology | Postdoctoral Researcher |
 | 2024.10–2026.3 | Department of Materials Science and Engineering, Institute of Science Tokyo | Postdoctoral Researcher |
 | 2026.4– | Department of Materials Science and Engineering, Institute of Science Tokyo | Specially Appointed Assistant Professor |
 
