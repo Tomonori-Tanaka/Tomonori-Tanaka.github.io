@@ -6,7 +6,7 @@ title: "研究"
 
 磁性材料のキュリー温度をはじめとする有限温度磁気特性を第一原理計算で予測する手法を開発している。特に、磁気秩序と格子振動（フォノン）の結合が磁気相転移に与える影響に注目している。
 
-**関連論文：** Tanaka & Gohda, *npj Computational Materials* (2020); Tanaka & Gohda, *JPSJ* (2020)
+**関連論文：** Tanaka & Gohda, [*npj Computational Materials* (2020)](https://doi.org/10.1038/s41524-020-00458-5); Tanaka & Gohda, [*JPSJ* (2020)](https://doi.org/10.7566/JPSJ.89.093705)
 
 ---
 
@@ -14,7 +14,7 @@ title: "研究"
 
 ノンコリニアスピン密度汎関数理論（DFT）とスピンクラスター展開に基づき、一般化スピンモデルを構築する手法を開発している。従来のハイゼンベルクモデルを超える多体スピン相互作用を取り扱い、複雑な磁気構造を精度よく記述することが可能である。
 
-**関連論文：** Tanaka & Gohda, *arXiv* (2025); Tanaka & Gohda, *arXiv* (2024)
+**関連論文：** Tanaka & Gohda, [*arXiv* (2025)](https://arxiv.org/abs/2512.04458); Tanaka & Gohda, [*arXiv* (2024)](https://arxiv.org/abs/2410.11256)
 
 ---
 
@@ -22,7 +22,7 @@ title: "研究"
 
 球面テンソル展開に基づく物理的に解釈可能なフォースコンスタントを用いたフォノン物性の研究を行っている。また、熱膨張を含むギブス自由エネルギーを効率的に計算する第一原理手法の開発も進めている。
 
-**関連論文：** Ito, Hashimoto, Tanaka & Gohda, *JPSJ* (2026); Hashimoto, Tanaka & Gohda, *Physical Review B* (2025)
+**関連論文：** Ito, Hashimoto, Tanaka & Gohda, [*JPSJ* (2026)](https://doi.org/10.7566/JPSJ.95.053601); Hashimoto, Tanaka & Gohda, [*Physical Review B* (2025)](https://doi.org/10.1103/PhysRevB.111.224309)
 
 ---
 
@@ -30,7 +30,7 @@ title: "研究"
 
 転移学習と遺伝的アルゴリズムを組み合わせたハイスループット第一原理計算により、Nd–Fe 系磁性化合物の新規永久磁石材料探索を共同研究として進めている。
 
-**関連論文：** Ito, Seo, Tanaka, Endo, Tsutsui, Tanaka & Gohda, *JPSJ* (2026)
+**関連論文：** Ito, Seo, Tanaka, Endo, Tsutsui, Tanaka & Gohda, [*JPSJ* (2026)](https://doi.org/10.7566/JPSJ.95.053701)
 
 ---
 
@@ -38,4 +38,4 @@ title: "研究"
 
 第一原理計算と熱力学モデリングを組み合わせ、二元合金の過剰体積など熱力学的特性の起源を解明する研究を行っている。
 
-**関連論文：** Watanabe et al., *Acta Materialia* (2024)
+**関連論文：** Watanabe et al., [*Acta Materialia* (2024)](https://doi.org/10.1016/j.actamat.2024.119718)
