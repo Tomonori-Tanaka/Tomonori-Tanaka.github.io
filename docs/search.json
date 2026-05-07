@@ -254,78 +254,43 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "研究",
+    "title": "Research",
     "section": "",
     "text": "I develop first-principles methods to predict the Curie temperature and other finite-temperature magnetic properties of materials. A key focus is the coupling between magnetic order and lattice vibrations (phonons), which plays an important role in determining magnetic phase transitions.\nRelated publications: Tanaka & Gohda, npj Computational Materials (2020); Tanaka & Gohda, JPSJ (2020)"
   },
   {
     "objectID": "research.html#finite-temperature-magnetism-from-first-principles",
     "href": "research.html#finite-temperature-magnetism-from-first-principles",
-    "title": "研究",
+    "title": "Research",
     "section": "",
     "text": "I develop first-principles methods to predict the Curie temperature and other finite-temperature magnetic properties of materials. A key focus is the coupling between magnetic order and lattice vibrations (phonons), which plays an important role in determining magnetic phase transitions.\nRelated publications: Tanaka & Gohda, npj Computational Materials (2020); Tanaka & Gohda, JPSJ (2020)"
   },
   {
     "objectID": "research.html#exchange-coupling-parameters-and-general-spin-models",
     "href": "research.html#exchange-coupling-parameters-and-general-spin-models",
-    "title": "研究",
+    "title": "Research",
     "section": "Exchange coupling parameters and general spin models",
     "text": "Exchange coupling parameters and general spin models\nI construct general spin models from noncollinear spin density functional theory (DFT) and spin-cluster expansion. This approach captures multi-spin interactions beyond the conventional Heisenberg model and enables accurate modeling of complex magnetic structures.\nRelated publications: Tanaka & Gohda, arXiv (2025); Tanaka & Gohda, arXiv (2024)"
   },
   {
     "objectID": "research.html#phonon-properties",
     "href": "research.html#phonon-properties",
-    "title": "研究",
+    "title": "Research",
     "section": "Phonon properties",
     "text": "Phonon properties\nI study phonon properties using physically interpretable force constants based on spherical tensor expansion. I also develop efficient first-principles approaches to compute the Gibbs free energy including thermal expansion effects.\nRelated publications: Ito, Hashimoto, Tanaka & Gohda, JPSJ (2026); Hashimoto, Tanaka & Gohda, Physical Review B (2025)"
   },
   {
     "objectID": "research.html#first-principles-exploration-of-permanent-magnet-materials",
     "href": "research.html#first-principles-exploration-of-permanent-magnet-materials",
-    "title": "研究",
+    "title": "Research",
     "section": "First-principles exploration of permanent magnet materials",
     "text": "First-principles exploration of permanent magnet materials\nIn collaboration, I work on high-throughput first-principles exploration of Nd–Fe magnetic compounds assisted by transfer learning and genetic algorithms, with the goal of discovering new permanent magnet materials.\nRelated publications: Ito, Seo, Tanaka, Endo, Tsutsui, Tanaka & Gohda, JPSJ (2026)"
   },
   {
     "objectID": "research.html#phase-equilibria",
     "href": "research.html#phase-equilibria",
-    "title": "研究",
+    "title": "Research",
     "section": "Phase equilibria",
     "text": "Phase equilibria\nI study the thermodynamic origin of structural properties such as excess volume in binary alloys using first-principles calculations combined with thermodynamic modeling.\nRelated publications: Watanabe et al., Acta Materialia (2024)"
-  },
-  {
-    "objectID": "research.html#有限温度磁性の第一原理計算",
-    "href": "research.html#有限温度磁性の第一原理計算",
-    "title": "研究",
-    "section": "有限温度磁性の第一原理計算",
-    "text": "有限温度磁性の第一原理計算\n磁性材料のキュリー温度をはじめとする有限温度磁気特性を第一原理計算で予測する手法を開発している。特に、磁気秩序と格子振動（フォノン）の結合が磁気相転移に与える影響に注目している。\n関連論文： Tanaka & Gohda, npj Computational Materials (2020); Tanaka & Gohda, JPSJ (2020)"
-  },
-  {
-    "objectID": "research.html#交換相互作用パラメータと一般化スピンモデル",
-    "href": "research.html#交換相互作用パラメータと一般化スピンモデル",
-    "title": "研究",
-    "section": "交換相互作用パラメータと一般化スピンモデル",
-    "text": "交換相互作用パラメータと一般化スピンモデル\nノンコリニアスピン密度汎関数理論（DFT）とスピンクラスター展開に基づき、一般化スピンモデルを構築する手法を開発している。従来のハイゼンベルクモデルを超える多体スピン相互作用を取り扱い、複雑な磁気構造を精度よく記述することが可能である。\n関連論文： Tanaka & Gohda, arXiv (2025); Tanaka & Gohda, arXiv (2024)"
-  },
-  {
-    "objectID": "research.html#フォノン物性",
-    "href": "research.html#フォノン物性",
-    "title": "研究",
-    "section": "フォノン物性",
-    "text": "フォノン物性\n球面テンソル展開に基づく物理的に解釈可能なフォースコンスタントを用いたフォノン物性の研究を行っている。また、熱膨張を含むギブス自由エネルギーを効率的に計算する第一原理手法の開発も進めている。\n関連論文： Ito, Hashimoto, Tanaka & Gohda, JPSJ (2026); Hashimoto, Tanaka & Gohda, Physical Review B (2025)"
-  },
-  {
-    "objectID": "research.html#永久磁石材料の第一原理探索",
-    "href": "research.html#永久磁石材料の第一原理探索",
-    "title": "研究",
-    "section": "永久磁石材料の第一原理探索",
-    "text": "永久磁石材料の第一原理探索\n転移学習と遺伝的アルゴリズムを組み合わせたハイスループット第一原理計算により、Nd–Fe 系磁性化合物の新規永久磁石材料探索を共同研究として進めている。\n関連論文： Ito, Seo, Tanaka, Endo, Tsutsui, Tanaka & Gohda, JPSJ (2026)"
-  },
-  {
-    "objectID": "research.html#相平衡",
-    "href": "research.html#相平衡",
-    "title": "研究",
-    "section": "相平衡",
-    "text": "相平衡\n第一原理計算と熱力学モデリングを組み合わせ、二元合金の過剰体積など熱力学的特性の起源を解明する研究を行っている。\n関連論文： Watanabe et al., Acta Materialia (2024)"
   }
 ]
