@@ -1,0 +1,35 @@
+---
+title: "CV"
+---
+
+## Education
+
+| Period | Institution | Degree / Department |
+|--------|-------------|---------------------|
+| 2008.4–2013.3 | National Institute of Technology, Miyakonojo College | Chemical Science and Engineering |
+| 2013.4–2015.3 | Nagoya Institute of Technology | Faculty of Engineering, Department of Environmental and Materials Engineering |
+| 2015.4–2017.9 | Tokyo Institute of Technology | M.S., Department of Materials Science and Engineering |
+| 2017.10–2020.9 | Tokyo Institute of Technology | Ph.D., Department of Materials Science and Engineering |
+
+## Employment
+
+| Period | Institution | Position |
+|--------|-------------|----------|
+| 2020.10–2021.2 | School of Materials and Chemical Technology, Tokyo Institute of Technology | Postdoctoral Researcher |
+| 2021.2–2023.3 | Research Center for Computational Design of Advanced Functional Materials, National Institute of Advanced Industrial Science and Technology (AIST) | Postdoctoral Researcher |
+| 2023.4–2024.9 | School of Materials and Chemical Technology, Tokyo Institute of Technology | Postdoctoral Researcher |
+| 2024.10–2026.3 | Department of Materials Science and Engineering, Institute of Science Tokyo | Postdoctoral Researcher |
+| 2026.4– | Department of Materials Science and Engineering, Institute of Science Tokyo | Specially Appointed Assistant Professor |
+
+## Awards
+
+| Date | Award |
+|------|-------|
+| 2024.12 | Distinguished Paper Award for Young Scientist |
+| 2026.4 | Poster Award |
+
+## Professional Memberships
+
+- Physical Society of Japan
+- American Physical Society
+- Japan Institute of Metals and Materials

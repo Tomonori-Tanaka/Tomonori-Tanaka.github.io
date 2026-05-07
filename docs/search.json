@@ -1,0 +1,296 @@
+[
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software",
+    "section": "",
+    "text": "A Julia package for constructing general spin models using spin-cluster expansion.\n\nLanguage: Julia\nRepository: Tomonori-Tanaka/Magesty.jl\nDocumentation: tomonori-tanaka.github.io/Magesty.jl/dev\nAward: Poster Award (2026)"
+  },
+  {
+    "objectID": "software.html#magesty.jl",
+    "href": "software.html#magesty.jl",
+    "title": "Software",
+    "section": "",
+    "text": "A Julia package for constructing general spin models using spin-cluster expansion.\n\nLanguage: Julia\nRepository: Tomonori-Tanaka/Magesty.jl\nDocumentation: tomonori-tanaka.github.io/Magesty.jl/dev\nAward: Poster Award (2026)"
+  },
+  {
+    "objectID": "software.html#spinclustermc.jl",
+    "href": "software.html#spinclustermc.jl",
+    "title": "Software",
+    "section": "SpinClusterMC.jl",
+    "text": "SpinClusterMC.jl\nA Monte Carlo package for spin-cluster expansion models, derived from Magesty.jl.\n\nLanguage: Julia\nRepository: Tomonori-Tanaka/SpinClusterMC.jl"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Tomonori Tanaka, Yoshihiro Gohda. “General spin models from noncollinear spin density functional theory and spin-cluster expansion.” arXiv:2512.04458 (2025).\nTomonori Tanaka, Yoshihiro Gohda. “Impact of electron–spin coupling on exchange coupling parameters: a nonperturbative approach.” arXiv:2410.11256 (2024)."
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "Tomonori Tanaka, Yoshihiro Gohda. “General spin models from noncollinear spin density functional theory and spin-cluster expansion.” arXiv:2512.04458 (2025).\nTomonori Tanaka, Yoshihiro Gohda. “Impact of electron–spin coupling on exchange coupling parameters: a nonperturbative approach.” arXiv:2410.11256 (2024)."
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "Peer-Reviewed Articles",
+    "text": "Peer-Reviewed Articles\n\nSayaka Ito, Insung Seo, Shimpei Tanaka, Mitsuru Endo, Yukio Tsutsui, Tomonori Tanaka, Yoshihiro Gohda. “First-Principles Exploration of Nd–Fe Magnetic Compounds Assisted by Transfer Learning and Genetic Algorithm.” Journal of the Physical Society of Japan 95, 053701 (2026).\nDaigo Ito, Kota Hashimoto, Tomonori Tanaka, Yoshihiro Gohda. “Physically Interpretable Force Constants Based on Spherical Tensor Expansion: Efficient Parameter Reduction for Low-Symmetry Systems.” Journal of the Physical Society of Japan 95, 053601 (2026).\nKota Hashimoto, Tomonori Tanaka, Yoshihiro Gohda. “Efficient first-principles approach to Gibbs free energy with thermal expansion.” Physical Review B 111, 224309 (2025).\nManabu Watanabe, Yasumasa Takagi, Tomonori Tanaka et al. “Clarification of origin of positive excess volume of Pd–Fe binary alloys.” Acta Materialia 267, 119718 (2024).\nTomonori Tanaka, Yoshihiro Gohda. “Prediction of the Curie temperature considering the dependence of the phonon free energy on magnetic states.” npj Computational Materials 6, 184 (2020).\nTomonori Tanaka, Yoshihiro Gohda. “First-Principles Study of Magnetism-Dependent Phonons Governed by Exchange Ligand Field.” Journal of the Physical Society of Japan 89, 093705 (2020).\nTomonori Tanaka, Yoshihiro Gohda. “First-principles prediction of one-dimensional giant Rashba splittings in Bi-adsorbed In atomic chains.” Physical Review B 98, 241409(R) (2018)."
+  },
+  {
+    "objectID": "ja/research.html",
+    "href": "ja/research.html",
+    "title": "研究",
+    "section": "",
+    "text": "磁性材料のキュリー温度をはじめとする有限温度磁気特性を第一原理計算で予測する手法を開発している。特に、磁気秩序と格子振動（フォノン）の結合が磁気相転移に与える影響に注目している。\n関連論文： Tanaka & Gohda, npj Computational Materials (2020); Tanaka & Gohda, JPSJ (2020)"
+  },
+  {
+    "objectID": "ja/research.html#有限温度磁性の第一原理計算",
+    "href": "ja/research.html#有限温度磁性の第一原理計算",
+    "title": "研究",
+    "section": "",
+    "text": "磁性材料のキュリー温度をはじめとする有限温度磁気特性を第一原理計算で予測する手法を開発している。特に、磁気秩序と格子振動（フォノン）の結合が磁気相転移に与える影響に注目している。\n関連論文： Tanaka & Gohda, npj Computational Materials (2020); Tanaka & Gohda, JPSJ (2020)"
+  },
+  {
+    "objectID": "ja/research.html#交換相互作用パラメータと一般化スピンモデル",
+    "href": "ja/research.html#交換相互作用パラメータと一般化スピンモデル",
+    "title": "研究",
+    "section": "交換相互作用パラメータと一般化スピンモデル",
+    "text": "交換相互作用パラメータと一般化スピンモデル\nノンコリニアスピン密度汎関数理論（DFT）とスピンクラスター展開に基づき、一般化スピンモデルを構築する手法を開発している。従来のハイゼンベルクモデルを超える多体スピン相互作用を取り扱い、複雑な磁気構造を精度よく記述することが可能である。\n関連論文： Tanaka & Gohda, arXiv (2025); Tanaka & Gohda, arXiv (2024)"
+  },
+  {
+    "objectID": "ja/research.html#フォノン物性",
+    "href": "ja/research.html#フォノン物性",
+    "title": "研究",
+    "section": "フォノン物性",
+    "text": "フォノン物性\n球面テンソル展開に基づく物理的に解釈可能なフォースコンスタントを用いたフォノン物性の研究を行っている。また、熱膨張を含むギブス自由エネルギーを効率的に計算する第一原理手法の開発も進めている。\n関連論文： Ito, Hashimoto, Tanaka & Gohda, JPSJ (2026); Hashimoto, Tanaka & Gohda, Physical Review B (2025)"
+  },
+  {
+    "objectID": "ja/research.html#永久磁石材料の第一原理探索",
+    "href": "ja/research.html#永久磁石材料の第一原理探索",
+    "title": "研究",
+    "section": "永久磁石材料の第一原理探索",
+    "text": "永久磁石材料の第一原理探索\n転移学習と遺伝的アルゴリズムを組み合わせたハイスループット第一原理計算により、Nd–Fe 系磁性化合物の新規永久磁石材料探索を共同研究として進めている。\n関連論文： Ito, Seo, Tanaka, Endo, Tsutsui, Tanaka & Gohda, JPSJ (2026)"
+  },
+  {
+    "objectID": "ja/research.html#相平衡",
+    "href": "ja/research.html#相平衡",
+    "title": "研究",
+    "section": "相平衡",
+    "text": "相平衡\n第一原理計算と熱力学モデリングを組み合わせ、二元合金の過剰体積など熱力学的特性の起源を解明する研究を行っている。\n関連論文： Watanabe et al., Acta Materialia (2024)"
+  },
+  {
+    "objectID": "ja/index.html",
+    "href": "ja/index.html",
+    "title": "田中友規",
+    "section": "",
+    "text": "特任助教 東京科学大学 物質理工学院 材料系\n計算材料科学を専門とし、磁性材料の有限温度特性を第一原理計算で解明する研究を行っている。\n研究キーワード： 第一原理計算・有限温度磁性・永久磁石・フォノン・相平衡"
+  },
+  {
+    "objectID": "ja/index.html#ニュース",
+    "href": "ja/index.html#ニュース",
+    "title": "田中友規",
+    "section": "ニュース",
+    "text": "ニュース\n\n2026.04 — 東京大学物性研究所スーパーコンピュータ共同利用研究会「計算物質科学の今と未来」にてポスター賞受賞（「Magesty.jl: スピンクラスター展開法に基づく一般化スピンモデル計算パッケージ」）\n2024.12 — 日本金属学会 機能材料特性のアーキテクチャー研究会 Distinguished Paper Award for Young Scientist 受賞（「第一原理計算による高精度な原子論的スピンモデルの構築」）"
+  },
+  {
+    "objectID": "ja/index.html#リンク",
+    "href": "ja/index.html#リンク",
+    "title": "田中友規",
+    "section": "リンク",
+    "text": "リンク\n\nORCID\nGoogle Scholar\nGitHub\nResearchMap"
+  },
+  {
+    "objectID": "ja/contact.html",
+    "href": "ja/contact.html",
+    "title": "お問い合わせ",
+    "section": "",
+    "text": "田中友規 東京科学大学 物質理工学院 材料系\n\n\nメール： tomonori.tanaka.academic@gmail.com\nORCID： 0000-0001-7306-6770\nGoogle Scholar： 田中友規\nGitHub： Tomonori-Tanaka\nResearchMap： tomonori-tanaka"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Period\nInstitution\nDegree / Department\n\n\n\n\n2008.4–2013.3\nNational Institute of Technology, Miyakonojo College\nChemical Science and Engineering\n\n\n2013.4–2015.3\nNagoya Institute of Technology\nFaculty of Engineering, Department of Environmental and Materials Engineering\n\n\n2015.4–2017.9\nTokyo Institute of Technology\nM.S., Department of Materials Science and Engineering\n\n\n2017.10–2020.9\nTokyo Institute of Technology\nPh.D., Department of Materials Science and Engineering"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "Period\nInstitution\nDegree / Department\n\n\n\n\n2008.4–2013.3\nNational Institute of Technology, Miyakonojo College\nChemical Science and Engineering\n\n\n2013.4–2015.3\nNagoya Institute of Technology\nFaculty of Engineering, Department of Environmental and Materials Engineering\n\n\n2015.4–2017.9\nTokyo Institute of Technology\nM.S., Department of Materials Science and Engineering\n\n\n2017.10–2020.9\nTokyo Institute of Technology\nPh.D., Department of Materials Science and Engineering"
+  },
+  {
+    "objectID": "cv.html#employment",
+    "href": "cv.html#employment",
+    "title": "CV",
+    "section": "Employment",
+    "text": "Employment\n\n\n\n\n\n\n\n\nPeriod\nInstitution\nPosition\n\n\n\n\n2020.10–2021.2\nSchool of Materials and Chemical Technology, Tokyo Institute of Technology\nPostdoctoral Researcher\n\n\n2021.2–2023.3\nResearch Center for Computational Design of Advanced Functional Materials, National Institute of Advanced Industrial Science and Technology (AIST)\nPostdoctoral Researcher\n\n\n2023.4–2024.9\nSchool of Materials and Chemical Technology, Tokyo Institute of Technology\nPostdoctoral Researcher\n\n\n2024.10–2026.3\nDepartment of Materials Science and Engineering, Institute of Science Tokyo\nPostdoctoral Researcher\n\n\n2026.4–\nDepartment of Materials Science and Engineering, Institute of Science Tokyo\nSpecially Appointed Assistant Professor"
+  },
+  {
+    "objectID": "cv.html#awards",
+    "href": "cv.html#awards",
+    "title": "CV",
+    "section": "Awards",
+    "text": "Awards\n\n\n\nDate\nAward\n\n\n\n\n2024.12\nDistinguished Paper Award for Young Scientist\n\n\n2026.4\nPoster Award"
+  },
+  {
+    "objectID": "cv.html#professional-memberships",
+    "href": "cv.html#professional-memberships",
+    "title": "CV",
+    "section": "Professional Memberships",
+    "text": "Professional Memberships\n\nPhysical Society of Japan\nAmerican Physical Society\nJapan Institute of Metals and Materials"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Tomonori Tanaka Department of Materials Science and Engineering, Institute of Science Tokyo\n\n\nEmail: tomonori.tanaka.academic@gmail.com\nORCID: 0000-0001-7306-6770\nGoogle Scholar: Tomonori Tanaka\nGitHub: Tomonori-Tanaka\nResearchMap: tomonori-tanaka"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tomonori Tanaka",
+    "section": "",
+    "text": "Specially Appointed Assistant Professor Department of Materials Science and Engineering, Institute of Science Tokyo\nI am a computational materials scientist working on first-principles methods for magnetic materials. My research focuses on finite-temperature magnetism, phonon properties, and phase equilibria of functional materials including permanent magnets.\nResearch keywords: first-principles calculation · finite-temperature magnetism · permanent magnets · phonon · phase equilibrium"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Tomonori Tanaka",
+    "section": "News",
+    "text": "News\n\n2026.04 — Poster Award (Magesty.jl)\n2024.12 — Distinguished Paper Award for Young Scientist"
+  },
+  {
+    "objectID": "index.html#links",
+    "href": "index.html#links",
+    "title": "Tomonori Tanaka",
+    "section": "Links",
+    "text": "Links\n\nORCID\nGoogle Scholar\nGitHub\nResearchMap"
+  },
+  {
+    "objectID": "ja/cv.html",
+    "href": "ja/cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "期間\n機関\n課程・学科\n\n\n\n\n2008.4–2013.3\n都城工業高等専門学校\n物質工学科\n\n\n2013.4–2015.3\n名古屋工業大学\n工学部 環境材料工学科\n\n\n2015.4–2017.9\n東京工業大学\n材料物理科学専攻（修士）\n\n\n2017.10–2020.9\n東京工業大学\n物質理工学院 材料系（博士）"
+  },
+  {
+    "objectID": "ja/cv.html#学歴",
+    "href": "ja/cv.html#学歴",
+    "title": "CV",
+    "section": "",
+    "text": "期間\n機関\n課程・学科\n\n\n\n\n2008.4–2013.3\n都城工業高等専門学校\n物質工学科\n\n\n2013.4–2015.3\n名古屋工業大学\n工学部 環境材料工学科\n\n\n2015.4–2017.9\n東京工業大学\n材料物理科学専攻（修士）\n\n\n2017.10–2020.9\n東京工業大学\n物質理工学院 材料系（博士）"
+  },
+  {
+    "objectID": "ja/cv.html#職歴",
+    "href": "ja/cv.html#職歴",
+    "title": "CV",
+    "section": "職歴",
+    "text": "職歴\n\n\n\n\n\n\n\n\n期間\n機関\n役職\n\n\n\n\n2020.10–2021.2\n東京工業大学 物質理工学院\n研究員\n\n\n2021.2–2023.3\n産業技術総合研究所 機能材料コンピュータティックデザイン研究センター\n産総研特別研究員\n\n\n2023.4–2024.9\n東京工業大学 物質理工学院\n研究員\n\n\n2024.10–2026.3\n東京科学大学 物質理工学院 材料系\n研究員\n\n\n2026.4–\n東京科学大学 物質理工学院 材料系\n特任助教"
+  },
+  {
+    "objectID": "ja/cv.html#受賞",
+    "href": "ja/cv.html#受賞",
+    "title": "CV",
+    "section": "受賞",
+    "text": "受賞\n\n\n\n\n\n\n\n\n年月\n賞\n研究会\n\n\n\n\n2024.12\nDistinguished Paper Award for Young Scientist\n日本金属学会 機能材料特性のアーキテクチャー研究会\n\n\n2026.4\nポスター賞\n東京大学物性研究所スーパーコンピュータ共同利用研究会「計算物質科学の今と未来」"
+  },
+  {
+    "objectID": "ja/cv.html#学協会",
+    "href": "ja/cv.html#学協会",
+    "title": "CV",
+    "section": "学協会",
+    "text": "学協会\n\n日本物理学会\nAmerican Physical Society\n日本金属学会"
+  },
+  {
+    "objectID": "ja/publications.html",
+    "href": "ja/publications.html",
+    "title": "論文",
+    "section": "",
+    "text": "Tomonori Tanaka, Yoshihiro Gohda. “General spin models from noncollinear spin density functional theory and spin-cluster expansion.” arXiv:2512.04458 (2025).\nTomonori Tanaka, Yoshihiro Gohda. “Impact of electron–spin coupling on exchange coupling parameters: a nonperturbative approach.” arXiv:2410.11256 (2024)."
+  },
+  {
+    "objectID": "ja/publications.html#プレプリント",
+    "href": "ja/publications.html#プレプリント",
+    "title": "論文",
+    "section": "",
+    "text": "Tomonori Tanaka, Yoshihiro Gohda. “General spin models from noncollinear spin density functional theory and spin-cluster expansion.” arXiv:2512.04458 (2025).\nTomonori Tanaka, Yoshihiro Gohda. “Impact of electron–spin coupling on exchange coupling parameters: a nonperturbative approach.” arXiv:2410.11256 (2024)."
+  },
+  {
+    "objectID": "ja/publications.html#査読付き論文",
+    "href": "ja/publications.html#査読付き論文",
+    "title": "論文",
+    "section": "査読付き論文",
+    "text": "査読付き論文\n\nSayaka Ito, Insung Seo, Shimpei Tanaka, Mitsuru Endo, Yukio Tsutsui, Tomonori Tanaka, Yoshihiro Gohda. “First-Principles Exploration of Nd–Fe Magnetic Compounds Assisted by Transfer Learning and Genetic Algorithm.” Journal of the Physical Society of Japan 95, 053701 (2026).\nDaigo Ito, Kota Hashimoto, Tomonori Tanaka, Yoshihiro Gohda. “Physically Interpretable Force Constants Based on Spherical Tensor Expansion: Efficient Parameter Reduction for Low-Symmetry Systems.” Journal of the Physical Society of Japan 95, 053601 (2026).\nKota Hashimoto, Tomonori Tanaka, Yoshihiro Gohda. “Efficient first-principles approach to Gibbs free energy with thermal expansion.” Physical Review B 111, 224309 (2025).\nManabu Watanabe, Yasumasa Takagi, Tomonori Tanaka et al. “Clarification of origin of positive excess volume of Pd–Fe binary alloys.” Acta Materialia 267, 119718 (2024).\nTomonori Tanaka, Yoshihiro Gohda. “Prediction of the Curie temperature considering the dependence of the phonon free energy on magnetic states.” npj Computational Materials 6, 184 (2020).\nTomonori Tanaka, Yoshihiro Gohda. “First-Principles Study of Magnetism-Dependent Phonons Governed by Exchange Ligand Field.” Journal of the Physical Society of Japan 89, 093705 (2020).\nTomonori Tanaka, Yoshihiro Gohda. “First-principles prediction of one-dimensional giant Rashba splittings in Bi-adsorbed In atomic chains.” Physical Review B 98, 241409(R) (2018)."
+  },
+  {
+    "objectID": "ja/software.html",
+    "href": "ja/software.html",
+    "title": "ソフトウェア",
+    "section": "",
+    "text": "スピンクラスター展開を用いて一般化スピンモデルを構築するための Julia パッケージ。\n\n言語： Julia\nリポジトリ： Tomonori-Tanaka/Magesty.jl\nドキュメント： tomonori-tanaka.github.io/Magesty.jl/dev\n受賞： ポスター賞（2026年）、東京大学物性研究所スーパーコンピュータ共同利用研究会「計算物質科学の今と未来」"
+  },
+  {
+    "objectID": "ja/software.html#magesty.jl",
+    "href": "ja/software.html#magesty.jl",
+    "title": "ソフトウェア",
+    "section": "",
+    "text": "スピンクラスター展開を用いて一般化スピンモデルを構築するための Julia パッケージ。\n\n言語： Julia\nリポジトリ： Tomonori-Tanaka/Magesty.jl\nドキュメント： tomonori-tanaka.github.io/Magesty.jl/dev\n受賞： ポスター賞（2026年）、東京大学物性研究所スーパーコンピュータ共同利用研究会「計算物質科学の今と未来」"
+  },
+  {
+    "objectID": "ja/software.html#spinclustermc.jl",
+    "href": "ja/software.html#spinclustermc.jl",
+    "title": "ソフトウェア",
+    "section": "SpinClusterMC.jl",
+    "text": "SpinClusterMC.jl\nMagesty.jl から派生した、スピンクラスター展開モデル向けモンテカルロパッケージ。\n\n言語： Julia\nリポジトリ： Tomonori-Tanaka/SpinClusterMC.jl"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I develop first-principles methods to predict the Curie temperature and other finite-temperature magnetic properties of materials. A key focus is the coupling between magnetic order and lattice vibrations (phonons), which plays an important role in determining magnetic phase transitions.\nRelated publications: Tanaka & Gohda, npj Computational Materials (2020); Tanaka & Gohda, JPSJ (2020)"
+  },
+  {
+    "objectID": "research.html#finite-temperature-magnetism-from-first-principles",
+    "href": "research.html#finite-temperature-magnetism-from-first-principles",
+    "title": "Research",
+    "section": "",
+    "text": "I develop first-principles methods to predict the Curie temperature and other finite-temperature magnetic properties of materials. A key focus is the coupling between magnetic order and lattice vibrations (phonons), which plays an important role in determining magnetic phase transitions.\nRelated publications: Tanaka & Gohda, npj Computational Materials (2020); Tanaka & Gohda, JPSJ (2020)"
+  },
+  {
+    "objectID": "research.html#exchange-coupling-parameters-and-general-spin-models",
+    "href": "research.html#exchange-coupling-parameters-and-general-spin-models",
+    "title": "Research",
+    "section": "Exchange Coupling Parameters and General Spin Models",
+    "text": "Exchange Coupling Parameters and General Spin Models\nI construct general spin models from noncollinear spin density functional theory (DFT) and spin-cluster expansion. This approach captures multi-spin interactions beyond the conventional Heisenberg model and enables accurate modeling of complex magnetic structures.\nRelated publications: Tanaka & Gohda, arXiv (2025); Tanaka & Gohda, arXiv (2024)"
+  },
+  {
+    "objectID": "research.html#phonon-properties",
+    "href": "research.html#phonon-properties",
+    "title": "Research",
+    "section": "Phonon Properties",
+    "text": "Phonon Properties\nI study phonon properties using physically interpretable force constants based on spherical tensor expansion. I also develop efficient first-principles approaches to compute the Gibbs free energy including thermal expansion effects.\nRelated publications: Ito, Hashimoto, Tanaka & Gohda, JPSJ (2026); Hashimoto, Tanaka & Gohda, Physical Review B (2025)"
+  },
+  {
+    "objectID": "research.html#first-principles-exploration-of-permanent-magnet-materials",
+    "href": "research.html#first-principles-exploration-of-permanent-magnet-materials",
+    "title": "Research",
+    "section": "First-Principles Exploration of Permanent Magnet Materials",
+    "text": "First-Principles Exploration of Permanent Magnet Materials\nIn collaboration, I work on high-throughput first-principles exploration of Nd–Fe magnetic compounds assisted by transfer learning and genetic algorithms, with the goal of discovering new permanent magnet materials.\nRelated publications: Ito, Seo, Tanaka, Endo, Tsutsui, Tanaka & Gohda, JPSJ (2026)"
+  },
+  {
+    "objectID": "research.html#phase-equilibria",
+    "href": "research.html#phase-equilibria",
+    "title": "Research",
+    "section": "Phase Equilibria",
+    "text": "Phase Equilibria\nI study the thermodynamic origin of structural properties such as excess volume in binary alloys using first-principles calculations combined with thermodynamic modeling.\nRelated publications: Watanabe et al., Acta Materialia (2024)"
+  }
+]

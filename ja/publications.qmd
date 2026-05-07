@@ -1,0 +1,43 @@
+---
+title: "論文"
+---
+
+## プレプリント
+
+1. **Tomonori Tanaka**, Yoshihiro Gohda.
+   "General spin models from noncollinear spin density functional theory and spin-cluster expansion."
+   [*arXiv*:2512.04458 (2025)](https://arxiv.org/abs/2512.04458).
+
+2. **Tomonori Tanaka**, Yoshihiro Gohda.
+   "Impact of electron–spin coupling on exchange coupling parameters: a nonperturbative approach."
+   [*arXiv*:2410.11256 (2024)](https://arxiv.org/abs/2410.11256).
+
+## 査読付き論文
+
+1. Sayaka Ito, Insung Seo, Shimpei Tanaka, Mitsuru Endo, Yukio Tsutsui, **Tomonori Tanaka**, Yoshihiro Gohda.
+   "First-Principles Exploration of Nd–Fe Magnetic Compounds Assisted by Transfer Learning and Genetic Algorithm."
+   [*Journal of the Physical Society of Japan* **95**, 053701 (2026)](https://doi.org/10.7566/JPSJ.95.053701).
+
+2. Daigo Ito, Kota Hashimoto, **Tomonori Tanaka**, Yoshihiro Gohda.
+   "Physically Interpretable Force Constants Based on Spherical Tensor Expansion: Efficient Parameter Reduction for Low-Symmetry Systems."
+   [*Journal of the Physical Society of Japan* **95**, 053601 (2026)](https://doi.org/10.7566/JPSJ.95.053601).
+
+3. Kota Hashimoto, **Tomonori Tanaka**, Yoshihiro Gohda.
+   "Efficient first-principles approach to Gibbs free energy with thermal expansion."
+   [*Physical Review B* **111**, 224309 (2025)](https://doi.org/10.1103/PhysRevB.111.224309).
+
+4. Manabu Watanabe, Yasumasa Takagi, **Tomonori Tanaka** et al.
+   "Clarification of origin of positive excess volume of Pd–Fe binary alloys."
+   [*Acta Materialia* **267**, 119718 (2024)](https://doi.org/10.1016/j.actamat.2024.119718).
+
+5. **Tomonori Tanaka**, Yoshihiro Gohda.
+   "Prediction of the Curie temperature considering the dependence of the phonon free energy on magnetic states."
+   [*npj Computational Materials* **6**, 184 (2020)](https://doi.org/10.1038/s41524-020-00458-5).
+
+6. **Tomonori Tanaka**, Yoshihiro Gohda.
+   "First-Principles Study of Magnetism-Dependent Phonons Governed by Exchange Ligand Field."
+   [*Journal of the Physical Society of Japan* **89**, 093705 (2020)](https://doi.org/10.7566/JPSJ.89.093705).
+
+7. **Tomonori Tanaka**, Yoshihiro Gohda.
+   "First-principles prediction of one-dimensional giant Rashba splittings in Bi-adsorbed In atomic chains."
+   [*Physical Review B* **98**, 241409(R) (2018)](https://doi.org/10.1103/PhysRevB.98.241409).

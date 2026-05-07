@@ -1,0 +1,21 @@
+---
+title: "Software"
+---
+
+## Magesty.jl
+
+A Julia package for constructing general spin models using spin-cluster expansion.
+
+- **Language:** Julia
+- **Repository:** [Tomonori-Tanaka/Magesty.jl](https://github.com/Tomonori-Tanaka/Magesty.jl)
+- **Documentation:** [tomonori-tanaka.github.io/Magesty.jl/dev](https://tomonori-tanaka.github.io/Magesty.jl/dev/)
+- **Award:** Poster Award (2026)
+
+---
+
+## SpinClusterMC.jl
+
+A Monte Carlo package for spin-cluster expansion models, derived from Magesty.jl.
+
+- **Language:** Julia
+- **Repository:** [Tomonori-Tanaka/SpinClusterMC.jl](https://github.com/Tomonori-Tanaka/SpinClusterMC.jl)

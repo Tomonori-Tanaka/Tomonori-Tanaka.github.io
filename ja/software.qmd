@@ -1,0 +1,21 @@
+---
+title: "ソフトウェア"
+---
+
+## Magesty.jl
+
+スピンクラスター展開を用いて一般化スピンモデルを構築するための Julia パッケージ。
+
+- **言語：** Julia
+- **リポジトリ：** [Tomonori-Tanaka/Magesty.jl](https://github.com/Tomonori-Tanaka/Magesty.jl)
+- **ドキュメント：** [tomonori-tanaka.github.io/Magesty.jl/dev](https://tomonori-tanaka.github.io/Magesty.jl/dev/)
+- **受賞：** ポスター賞（2026年）、東京大学物性研究所スーパーコンピュータ共同利用研究会「計算物質科学の今と未来」
+
+---
+
+## SpinClusterMC.jl
+
+Magesty.jl から派生した、スピンクラスター展開モデル向けモンテカルロパッケージ。
+
+- **言語：** Julia
+- **リポジトリ：** [Tomonori-Tanaka/SpinClusterMC.jl](https://github.com/Tomonori-Tanaka/SpinClusterMC.jl)

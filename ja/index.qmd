@@ -1,0 +1,28 @@
+---
+title: "田中友規"
+---
+
+**特任助教**
+東京科学大学 物質理工学院 材料系
+
+---
+
+計算材料科学を専門とし、磁性材料の有限温度特性を第一原理計算で解明する研究を行っている。
+
+**研究キーワード：** 第一原理計算・有限温度磁性・永久磁石・フォノン・相平衡
+
+---
+
+## ニュース
+
+- **2026.04** — 東京大学物性研究所スーパーコンピュータ共同利用研究会「計算物質科学の今と未来」にてポスター賞受賞（「Magesty.jl: スピンクラスター展開法に基づく一般化スピンモデル計算パッケージ」）
+- **2024.12** — 日本金属学会 機能材料特性のアーキテクチャー研究会 Distinguished Paper Award for Young Scientist 受賞（「第一原理計算による高精度な原子論的スピンモデルの構築」）
+
+---
+
+## リンク
+
+- [ORCID](https://orcid.org/0000-0001-7306-6770)
+- [Google Scholar](https://scholar.google.co.jp/citations?user=m2RlBXgAAAAJ&hl=en&oi=sra)
+- [GitHub](https://github.com/Tomonori-Tanaka)
+- [ResearchMap](https://researchmap.jp/tomonori-tanaka)

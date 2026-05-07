@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "ja/*.qmd"
+    - "!SPEC.md"
+    - "!STYLE_GUIDE.md"
+    - "!TASKS.md"
+    - "!README.md"
+
+website:
+  title: "Tomonori Tanaka"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+
+format:
+  html:
+    theme: journal
+    toc: true
+    include-after-body: assets/lang-switch.html

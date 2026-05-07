@@ -1,0 +1,28 @@
+---
+title: "Tomonori Tanaka"
+---
+
+**Specially Appointed Assistant Professor**
+Department of Materials Science and Engineering, Institute of Science Tokyo
+
+---
+
+I am a computational materials scientist working on first-principles methods for magnetic materials. My research focuses on finite-temperature magnetism, phonon properties, and phase equilibria of functional materials including permanent magnets.
+
+**Research keywords:** first-principles calculation · finite-temperature magnetism · permanent magnets · phonon · phase equilibrium
+
+---
+
+## News
+
+- **2026.04** — Poster Award (Magesty.jl)
+- **2024.12** — Distinguished Paper Award for Young Scientist
+
+---
+
+## Links
+
+- [ORCID](https://orcid.org/0000-0001-7306-6770)
+- [Google Scholar](https://scholar.google.co.jp/citations?user=m2RlBXgAAAAJ&hl=en&oi=sra)
+- [GitHub](https://github.com/Tomonori-Tanaka)
+- [ResearchMap](https://researchmap.jp/tomonori-tanaka)
