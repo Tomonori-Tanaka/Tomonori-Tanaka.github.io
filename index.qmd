@@ -9,7 +9,7 @@ Department of Materials Science and Engineering, Institute of Science Tokyo
 
 I am a computational materials scientist working on first-principles methods for magnetic materials. My research focuses on finite-temperature magnetism, phonon properties, and phase equilibria of functional materials including permanent magnets.
 
-**Research keywords:** first-principles calculation · finite-temperature magnetism · permanent magnets · phonon · phase equilibrium
+**Research keywords:** first-principles calculations · finite-temperature magnetism · permanent magnets · phonon · phase equilibrium
 
 ---
 
