@@ -12,7 +12,8 @@
   - arXiv の場合: *arXiv*:2501.12345 (2025)
   - 巻・ページが不明の場合は年のみ記載し、判明次第追記する
 - **論文リンク（publications ページ）**: 書誌情報全体（`*雑誌名* **巻**, ページ (年)` の部分）をそのままリンクテキストとし、DOI または arXiv URL にリンクする。例: `[*Physical Review B* **98**, 241409(R) (2018)](https://doi.org/10.1103/PhysRevB.98.241409)`
-- **論文リンク（research ページの Related publications）**: `*雑誌名* (年)` の部分をリンクテキストとし、DOI または arXiv URL にリンクする。雑誌名は標準略称（例: *JPSJ*, *PRB*）を使ってよい。例: `Tanaka & Gohda, [*npj Computational Materials* (2020)](https://doi.org/10.1038/s41524-020-00458-5)`
+- **論文リンク（research ページの Related publications）**: `*雑誌名略称* (年)` の部分をリンクテキストとし、DOI または arXiv URL にリンクする。雑誌名は必ず標準略称を使う。例: `Tanaka & Gohda, [*npj Comput. Mater.* (2020)](https://doi.org/10.1038/s41524-020-00458-5)`
+  - 略称対応表: *Phys. Rev. B* / *JPSJ* / *npj Comput. Mater.* / *Acta Mater.* / *arXiv*
 - **略語**: 初出時はフルスペル + 括弧内略語。例: density functional theory (DFT)
 
 ## 2. 日本語文体
