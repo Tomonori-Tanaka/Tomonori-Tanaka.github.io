@@ -23,6 +23,6 @@ I am a computational materials scientist working on first-principles methods for
 ## Links
 
 - [ORCID](https://orcid.org/0000-0001-7306-6770)
-- [Google Scholar](https://scholar.google.co.jp/citations?user=m2RlBXgAAAAJ&hl=en&oi=sra)
+- [Google Scholar](https://scholar.google.com/citations?user=teJuQQ4AAAAJ&hl=ja)
 - [GitHub](https://github.com/Tomonori-Tanaka)
 - [ResearchMap](https://researchmap.jp/tomonori-tanaka)
