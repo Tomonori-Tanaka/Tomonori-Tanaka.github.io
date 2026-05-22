@@ -6,7 +6,7 @@ title: "Research"
 
 I develop first-principles methods to predict the Curie temperature and other finite-temperature magnetic properties of materials. A key focus is the coupling between magnetic order and lattice vibrations (phonons), which plays an important role in determining magnetic phase transitions.
 
-**Related publications:** Tanaka & Gohda, [*npj Comput. Mater.* (2020)](https://doi.org/10.1038/s41524-020-00458-5); Tanaka & Gohda, [*JPSJ* (2020)](https://doi.org/10.7566/JPSJ.89.093705)
+**Related publications:** [*npj Comput. Mater.* (2020)](https://doi.org/10.1038/s41524-020-00458-5); [*JPSJ* (2020)](https://doi.org/10.7566/JPSJ.89.093705)
 
 ---
 
@@ -14,7 +14,7 @@ I develop first-principles methods to predict the Curie temperature and other fi
 
 I construct general spin models from noncollinear spin density functional theory (DFT) and spin-cluster expansion. This approach captures multi-spin interactions beyond the conventional Heisenberg model and enables accurate modeling of complex magnetic structures.
 
-**Related publications:** Tanaka & Gohda, [*arXiv* (2025)](https://arxiv.org/abs/2512.04458); Tanaka & Gohda, [*arXiv* (2024)](https://arxiv.org/abs/2410.11256)
+**Related publications:** [*arXiv* (2025)](https://arxiv.org/abs/2512.04458); [*arXiv* (2024)](https://arxiv.org/abs/2410.11256)
 
 ---
 
@@ -22,7 +22,7 @@ I construct general spin models from noncollinear spin density functional theory
 
 I study phonon properties using physically interpretable force constants based on spherical tensor expansion. I also develop efficient first-principles approaches to compute the Gibbs free energy including thermal expansion effects.
 
-**Related publications:** Ito, Hashimoto, Tanaka & Gohda, [*JPSJ* (2026)](https://doi.org/10.7566/JPSJ.95.053601); Hashimoto, Tanaka & Gohda, [*Phys. Rev. B* (2025)](https://doi.org/10.1103/PhysRevB.111.224309)
+**Related publications:** [*JPSJ* (2026)](https://doi.org/10.7566/JPSJ.95.053601); [*Phys. Rev. B* (2025)](https://doi.org/10.1103/PhysRevB.111.224309)
 
 ---
 
@@ -30,7 +30,7 @@ I study phonon properties using physically interpretable force constants based o
 
 In collaboration, I work on high-throughput first-principles exploration of Ndâ€“Fe magnetic compounds assisted by transfer learning and genetic algorithms, with the goal of discovering new permanent magnet materials.
 
-**Related publications:** Ito, Seo, Tanaka, Endo, Tsutsui, Tanaka & Gohda, [*JPSJ* (2026)](https://doi.org/10.7566/JPSJ.95.053701)
+**Related publications:** [*JPSJ* (2026)](https://doi.org/10.7566/JPSJ.95.053701)
 
 ---
 
@@ -38,4 +38,4 @@ In collaboration, I work on high-throughput first-principles exploration of Ndâ€
 
 I study the thermodynamic origin of structural properties such as excess volume in binary alloys using first-principles calculations combined with thermodynamic modeling.
 
-**Related publications:** Watanabe et al., [*Acta Mater.* (2024)](https://doi.org/10.1016/j.actamat.2024.119718)
+**Related publications:** [*Acta Mater.* (2024)](https://doi.org/10.1016/j.actamat.2024.119718)
