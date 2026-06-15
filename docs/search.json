@@ -60,7 +60,7 @@
     "href": "ja/research.html#交換相互作用パラメータと一般化スピンモデル",
     "title": "研究",
     "section": "交換相互作用パラメータと一般化スピンモデル",
-    "text": "交換相互作用パラメータと一般化スピンモデル\nノンコリニアスピン密度汎関数理論（DFT）とスピンクラスター展開に基づき、一般化スピンモデルを構築する手法を開発している。従来のハイゼンベルクモデルを超える多体スピン相互作用を取り扱い、複雑な磁気構造を精度よく記述することが可能である。\n関連論文： arXiv (2025); arXiv (2024)"
+    "text": "交換相互作用パラメータと一般化スピンモデル\nノンコリニアスピン密度汎関数理論（DFT）とスピンクラスター展開に基づき、一般化スピンモデルを構築する手法を開発している。従来のハイゼンベルクモデルを超える多体スピン相互作用を取り扱い、複雑な磁気構造を精度よく記述することが可能である。\n関連論文： Phys. Rev. Res. (2026); arXiv (2024)"
   },
   {
     "objectID": "ja/research.html#フォノン物性",
@@ -270,7 +270,7 @@
     "href": "research.html#exchange-coupling-parameters-and-general-spin-models",
     "title": "Research",
     "section": "Exchange coupling parameters and general spin models",
-    "text": "Exchange coupling parameters and general spin models\nI construct general spin models from noncollinear spin density functional theory (DFT) and spin-cluster expansion. This approach captures multi-spin interactions beyond the conventional Heisenberg model and enables accurate modeling of complex magnetic structures.\nRelated publications: arXiv (2025); arXiv (2024)"
+    "text": "Exchange coupling parameters and general spin models\nI construct general spin models from noncollinear spin density functional theory (DFT) and spin-cluster expansion. This approach captures multi-spin interactions beyond the conventional Heisenberg model and enables accurate modeling of complex magnetic structures.\nRelated publications: Phys. Rev. Res. (2026); arXiv (2024)"
   },
   {
     "objectID": "research.html#phonon-properties",

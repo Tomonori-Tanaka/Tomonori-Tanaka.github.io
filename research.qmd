@@ -14,7 +14,7 @@ I develop first-principles methods to predict the Curie temperature and other fi
 
 I construct general spin models from noncollinear spin density functional theory (DFT) and spin-cluster expansion. This approach captures multi-spin interactions beyond the conventional Heisenberg model and enables accurate modeling of complex magnetic structures.
 
-**Related publications:** [*arXiv* (2025)](https://arxiv.org/abs/2512.04458); [*arXiv* (2024)](https://arxiv.org/abs/2410.11256)
+**Related publications:** [*Phys. Rev. Res.* (2026)](https://doi.org/10.1103/qqlf-d531); [*arXiv* (2024)](https://arxiv.org/abs/2410.11256)
 
 ---
 
